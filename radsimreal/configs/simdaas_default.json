@@ -1,0 +1,7 @@
+{
+  "name": "simdaas_77ghz",
+  "range_min": 0.0, "range_max": 64.0, "range_bins": 256,
+  "azimuth_min_deg": -60.0, "azimuth_max_deg": 60.0, "azimuth_bins": 192,
+  "doppler_min": -20.0, "doppler_max": 20.0, "doppler_bins": 64,
+  "carrier_ghz": 77.0
+}
